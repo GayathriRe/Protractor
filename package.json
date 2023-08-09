@@ -1,0 +1,17 @@
+{
+  "name": "angular_material",
+  "version": "1.0.0",
+  "description": "",
+  "main": "NEW_T.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-spec-reporter": "^7.0.0"
+  },
+  "dependencies": {
+    "protractor-beautiful-reporter": "^1.3.6"
+  }
+}
